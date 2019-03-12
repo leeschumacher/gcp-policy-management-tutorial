@@ -1,0 +1,6 @@
+apiVersion: bespin.dev/v1
+kind: Folder
+metadata:
+  name: managed-folder
+spec: 
+  displayName: Folder managed by GPM

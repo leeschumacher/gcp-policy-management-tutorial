@@ -1,0 +1,9 @@
+apiVersion: bespin.dev/v1
+kind: IAMPolicy
+metadata:
+  name: managed-iam-policy
+spec:
+  bindings:
+  - members:
+    - user:lee@lschumacher.info
+    role: roles/viewer

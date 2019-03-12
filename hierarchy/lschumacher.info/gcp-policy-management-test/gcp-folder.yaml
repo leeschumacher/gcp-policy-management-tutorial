@@ -3,5 +3,5 @@ kind: Folder
 metadata:
   name: gcp-policy-management-test
 spec: 
-  displayName: GCP Policy Management Test
-  id: 187814130620
+  displayName: 
+  id: 
