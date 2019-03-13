@@ -1,8 +1,0 @@
-apiVersion: bespin.dev/v1
-kind: Project
-metadata:
-  name: managed-project
-spec:
-  displayName: Project managed by GPM
-  id: managed-project-1043828241436
-
