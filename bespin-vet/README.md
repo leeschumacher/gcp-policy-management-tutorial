@@ -1,1 +1,1 @@
-bespin vet action
+The bespin vet action.
