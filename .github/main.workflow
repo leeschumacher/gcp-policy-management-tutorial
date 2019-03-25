@@ -5,5 +5,5 @@ workflow "vet" {
 
 action "bespin-vet" {
   uses = "./bespin-vet/"
-  secretes = ["GITHUB_TOKEN"]
+  secrets = ["GITHUB_TOKEN"]
 }
